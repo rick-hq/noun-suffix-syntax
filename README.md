@@ -1,6 +1,9 @@
 # Noun Suffix Syntax (NSS) v1.0
 **A lightweight standard for Inline Entity Tagging using Chrono-Descriptor suffixes.**
 
+> **[Try the Live Interactive NSS Badge Viewer →](https://github.io)**
+> 
+
 Noun Suffix Syntax (NSS) attaches compact, machine-readable timeline and classification metadata directly onto major specific nouns (entities) inside running prose—eliminating parenthetical clutter while keeping text human-scannable and regex-parseable.
 
 ---
