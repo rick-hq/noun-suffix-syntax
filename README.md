@@ -4,7 +4,7 @@
 > **[Try the Live Interactive NSS Badge Viewer →](https://github.io)**
 > 
 
-> **[Try the Live Interactive NSS Badge Viewer →](https://github.io)** | **[Copy the Universal AI Prompt (`AI-PROMPT.md`) →](AI-PROMPT.md)**
+> **[Copy the Universal AI Prompt (`AI-PROMPT.md`) →](AI-PROMPT.md)**
 > 
 
 Noun Suffix Syntax (NSS) attaches compact, machine-readable timeline and classification metadata directly onto major specific nouns (entities) inside running prose—eliminating parenthetical clutter while keeping text human-scannable and regex-parseable.
