@@ -1,7 +1,7 @@
 # Noun Suffix Syntax (NSS) v1.0
 **A lightweight standard for Inline Entity Tagging using Chrono-Descriptor suffixes.**
 
-> **[Try the Live Interactive NSS Badge Viewer →](https://github.io)**
+> **[Try the Live Interactive NSS Badge Viewer →](https://rick-hq.github.io/noun-suffix-syntax/demo.html)**
 > 
 
 > **[Copy the Universal AI Prompt (`AI-PROMPT.md`) →](AI-PROMPT.md)**
